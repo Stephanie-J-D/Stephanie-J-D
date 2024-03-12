@@ -1,7 +1,7 @@
 - 👋🏼 Hi - I'm Steph, Senior Talent Partner (Tech Hiring) @ ElevenLabs
 - 👀 I’m interested in connecting with Engineers who strive for excellence in every aspect of their work
 - 🌱 Delving in to the generative AI space and how AI can make content universally accessible in any language and voice
-- ❤️ I’m looking to connect with Engineers who are passionate about text-to-speech AI
+- ❤️ I’d love to speak with Engineers who are passionate about text-to-speech AI
 - 📫 How to reach me: stephanie@elevenlabs.io
 
 <!---
